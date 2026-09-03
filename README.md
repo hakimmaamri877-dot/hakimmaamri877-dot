@@ -1,1 +1,66 @@
-@@ -1,64 +1,52 @@<p align="left">  <img src="https://komarev.com/ghpvc/?username=mastansayyad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>![Mastan _page-0001](https://github.com/user-attachments/assets/8e2dc625-ca3b-4fb0-a73f-7aa7de5a5283)<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Mastan Sayyad</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1><img align="right" hspace="30"     src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"     alt="Profile Image"     width="320"/>- 🌱 **Currently building and developing Myself** <br>- ⚡ About Me: **Determined** <br>- 💎 Value **clarity, ownership, and continuous improvement** <br>- 📈 Skills: **Java, SQL, OOP, Git & GitHub**- 📫 Reach Me At: [sayyadmastan78@gmail.com](mailto:sayyadmastan78@gmail.com) <br>- 📍 **Location:** India <br><br><br><br>## GSSOC(24) Badges 🪶<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />  </a></div><br>#### **Bad News:**  > No matter how hard you try to protect yourself, one day, you will fail.####  **Good News:**  > When you fail, each passing day,  > it opens you up to new possibilities, often helping you emerge as the best version of you.<br><details><summary>🎖️ Hacktoberfest Badges: </summary>  <br><p align="center"><img width="800" height="426" alt="image" src="https://github.com/user-attachments/assets/84f37fe7-27c0-4cea-bc0d-414be000c746" /></p></details><details><summary>🚀 Open Source Contributions:</summary>  <br>  <table width="100%" align="center">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hakimmaamri&label=Profile%20views&color=2E9EF7&style=flat" alt="Profile Views" />
+</p>
+
+<h1 align="center">مرحبًا 👋 أنا معمري حكيم</h1>
+
+<h3 align="center">محاسب مبتدئ | شغوف بالمحاسبة المالية</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Accounting+%7C+Financial+Reporting;SAP+%7C+Sage+%7C+Excel;Learning+every+day+%F0%9F%93%88" alt="Typing SVG" />
+</p>
+
+<!--
+  ضع صورتك الشخصية هنا بدلًا من هذا التعليق، مثال:
+  <p align="center"><img src="رابط_صورتك.png" width="200" /></p>
+-->
+
+---
+
+### 🧾 نبذة عني
+
+- 🎓 طالب جامعي، وأعمل حاليًا محاسبًا في شركة خاصة
+- 💡 شغوف بمجال **المحاسبة المالية** وأسعى لتطوير خبرتي فيه يومًا بعد يوم
+- 🌱 في بداية مسيرتي المهنية، ومتحمس لاكتساب المزيد من المهارات العملية
+- 🎯 أبحث حاليًا عن فرص عمل أو تدريب في مجال المحاسبة والمالية
+
+---
+
+### 🛠️ المهارات والأدوات
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sage-00DC82?style=for-the-badge&logo=sage&logoColor=white" />
+</p>
+
+- 📊 إعداد ومعالجة البيانات المالية باستخدام **Excel**
+- 🧮 التعامل مع أنظمة المحاسبة: **SAP**, **Sage**
+- 📚 متابعة مستمرة لتطوير مهاراتي في التقارير المالية والمحاسبة التحليلية
+
+---
+
+### 📊 إحصائيات GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hakimmaamri&show_icons=true&theme=default&hide_title=false&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakimmaamri&theme=default" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+### 📫 تواصل معي
+
+<p align="left">
+  <a href="mailto:hakimmaamri877@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Phone-0666058636-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <i>💬 "الدقة اليوم أساس الثقة غدًا" — شغف بالأرقام، التزام بالدقة.</i>
+</p>
+
